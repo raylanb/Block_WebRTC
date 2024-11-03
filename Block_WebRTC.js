@@ -1,13 +1,16 @@
 // ==UserScript==
-// @name         Disable WebRTC
-// @namespace    https://github.com/raylanb/Block_WebRTC
-// @updateURL    https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
-// @downloadURL  https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
-// @version      0.1
-// @description  Disable WebRTC to prevent IP leakage
-// @author       raylanb
-// @match        *://*/*
-// @grant        none
+// @name            Disable WebRTC
+// @namespace       https://github.com/raylanb/Block_WebRTC
+// @homepage        https://github.com/raylanb/Block_WebRTC
+// @updateURL       https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
+// @downloadURL     https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
+// @version         0.1
+// @created         2024-11-03
+// @lastUpdated     2024-11-03
+// @description     Disable WebRTC to prevent IP leakage
+// @author          raylanb
+// @match           *://*/*
+// @grant           none
 // ==/UserScript==
 
 (function() {
