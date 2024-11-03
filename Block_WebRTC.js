@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Disable WebRTC
 // @namespace    https://github.com/raylanb/Block_WebRTC
+// @updateURL    https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
+// @downloadURL  https://raw.githubusercontent.com/raylanb/Block_WebRTC/refs/heads/main/Block_WebRTC.js
 // @version      0.1
 // @description  Disable WebRTC to prevent IP leakage
 // @author       raylanb
